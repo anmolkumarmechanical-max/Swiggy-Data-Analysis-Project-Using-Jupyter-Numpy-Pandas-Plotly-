@@ -1,4 +1,4 @@
-# Swiggy-Data-Analysis-Project-Using-Jupyter-Numpy-Pandas-Plotly-
+# Swiggy-Data-Analysis-Project-Using-Jupyter-Numpy-Pandas-Plotly
 
  **Swiggy Sales & Customer Analytics Project**
  **Project Overview**
